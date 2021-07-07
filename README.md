@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mollmie
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning Spring Boot
